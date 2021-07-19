@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -28,7 +28,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/diaspd/AluraKut.git
 $ cd 
 ```
 

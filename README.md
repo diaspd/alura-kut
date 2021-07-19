@@ -1,5 +1,5 @@
 <h1 align="center">
-  Título
+  Alurakut
 </h1>
 
 <br></br>
@@ -7,13 +7,18 @@
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <h1 align="center">
-  <img alt="" title="" src="" width="100%" />
+  <img alt="" title="" src="img.png" width="80%" />
+</h1> 
+
+
+
+<h1 align="center">
+  <img alt="" title="" src="login.png" width="80%" />
 </h1>
 
 
@@ -33,7 +38,7 @@ Follow the steps below:
 $ npm i
 
 # Start the project
-$ npm start
+$ npm run dev
 ```
 The app will be available for access on your browser at http://localhost:3000
 
@@ -43,21 +48,14 @@ The app will be available for access on your browser at http://localhost:3000
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- 
-- 
-- 
--
--
--
+- JavaSript
+- React
 
 
 ## 📄 Project
-💰
-
+💰Um projeto parecido com uma rede social antiga Orkut
 <br></br>
 
-## 🔖 Layout
-📄
 
 <br></br>
 

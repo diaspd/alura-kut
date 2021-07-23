@@ -51,13 +51,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaSript
 - React
 
+<br></br>
 
 ## 📄 Project
-💰Um projeto parecido com uma rede social antiga Orkut
+💰A project similar to an old social network, Orkut.
 <br></br>
 
 
-<br></br>
 
 Feito com ♥ by Pedro Dias (😎)<br></br>
 https://www.instagram.com/dias_pdr/ <br></br>

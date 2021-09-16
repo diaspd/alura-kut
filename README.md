@@ -2,7 +2,6 @@
   Alurakut
 </h1>
 
-<br></br>
 
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -49,7 +48,7 @@ The app will be available for access on your browser at http://localhost:3000
 This project was developed with the following technologies:
 
 - JavaSript
-- React
+- ReactJs
 
 <br></br>
 

@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies"><b>Technologies<b/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project"><b>Project<b/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>

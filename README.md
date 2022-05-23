@@ -11,13 +11,13 @@
 <br>
 
 <h1 align="center">
-  <img alt="" title="" src="img.png" width="80%" />
+  <img alt="" title="" src="img.png" width="100%" />
 </h1> 
 
 
 
 <h1 align="center">
-  <img alt="" title="" src="login.png" width="80%" />
+  <img alt="" title="" src="login.png" width="100%" />
 </h1>
 
 

@@ -27,7 +27,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/diaspd/AluraKut.git
+$ git clone https://github.com/diaspd/alura-Kut.git
 $ cd 
 ```
 

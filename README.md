@@ -10,15 +10,15 @@
 
 <br>
 
-<h1 align="center">
+<div align="center">
   <img alt="" title="" src="img.png" width="100%" />
-</h1> 
+</div> 
 
 
 
-<h1 align="center">
+<div align="center">
   <img alt="" title="" src="login.png" width="100%" />
-</h1>
+</div>
 
 
 

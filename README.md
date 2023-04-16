@@ -59,9 +59,10 @@ This project was developed with the following technologies:
 
 ## 📄 Project
 💰A project similar to an old social network, Orkut.
+
 <br></br>
 
 
-Made with ♥ by Pedro Dias. 👋 Follow me on social media!
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
 
 If you can give a little star, I appreciate it 🤩

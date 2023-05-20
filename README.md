@@ -8,12 +8,11 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+---
 
 <div align="center">
   <img alt="" title="" src="img.png" width="100%" />
 </div> 
-
 
 
 <div align="center">

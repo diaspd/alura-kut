@@ -1,5 +1,5 @@
 <h1 align="center">
-  Alurakut
+ <img src="http://alurakut.vercel.app/logo.svg" width="25%" />
 </h1>
 
 <p align="center">

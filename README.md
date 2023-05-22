@@ -41,7 +41,6 @@ The app will be available for access on your browser at `http://localhost:3000`
 ## 💻 Technologies
 
 This project was developed with the following technologies:
-
 <b>
 - JavaSript
 - ReactJs
